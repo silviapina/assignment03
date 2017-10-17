@@ -12,7 +12,7 @@ var colorList2 = ['#244660',
 function setup() {
   createCanvas(500,500);
   noStroke();
-  frameRate(2);
+  frameRate(8);
   
 }
 
